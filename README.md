@@ -1,6 +1,6 @@
 # statistics
 
-<p>使い方ｌあ</p>
+<p>使い方</p>
 
 ```main.py```
 
@@ -13,7 +13,6 @@ result = merge(data,data2)
 print(result)
 ```
 
-<i>きちんとキッチン‼ウアッハハ！ガハハ！<i>
 
 ```stati.py```
 
